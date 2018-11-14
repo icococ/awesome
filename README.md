@@ -8,6 +8,9 @@ Apple Business Manager is a simple, web-based portal for IT administrators to de
 * [Apple Business Manager Help](https://help.apple.com/businessmanager/)
 * [Mobile Device Management Reference](https://help.apple.com/deployment/mdm/)
 
+## [Server Side Swift With Vapor](https://www.raywenderlich.com/4493-server-side-swift-with-vapor/)
+
+
 ## [Fast Lane](https://fastlane.tools/)
 Automate your development and release process
 
