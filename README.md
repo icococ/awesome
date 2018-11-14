@@ -20,12 +20,14 @@ Flutter, build native apps on iOS and Android from a single code base. Made by G
 * Xamarin
 
 
-*[混会应用演进](https://juejin.im/post/5b189fc9f265da6e326c5104)*
+*[混合应用演进](https://juejin.im/post/5b189fc9f265da6e326c5104)*
 
 ## [Weex](http://weex.apache.org/cn/guide/)
 [深入了解Weex](https://juejin.im/post/5b18a03ce51d45069d2263e3)
 
 [eros](https://github.com/bmfe/eros) Weex-native
+
+
 |        method        | description                              |
 | :------------------: | ---------------------------------------- |
 | initWithRef:type:... | Initializes a new component using the specified  properties. |
