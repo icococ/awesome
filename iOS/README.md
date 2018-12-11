@@ -15,4 +15,17 @@
 
 3. @class, farward declaring a class
    > chicken-and-egg situation
-    
+
+4. KVO
+   After instance p of Person addObserver:forKeyPath
+   * p->isa point to NSKVONotifying_Person instead of person
+   * (p->isa).class = NSKVONotifying_Person
+   * (p->isa).superclass = Person
+   * NSKVONotifying_Person was created dynimacally by runtime.
+   * willChangeValueForKey:
+   * didChangeValueForKey:
+   * observeValueForKeyPath:ofObject:change:context
+   * object_getClass
+   * object_getClassName
+   * methodForSelector:@selector()
+   * p (IMP)0x000099F9
